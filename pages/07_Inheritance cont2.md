@@ -18,4 +18,3 @@ layout: center
 
 </div>
 </div>
-</div>
