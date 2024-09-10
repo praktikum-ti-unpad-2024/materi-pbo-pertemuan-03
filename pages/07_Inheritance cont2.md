@@ -4,7 +4,6 @@ layout: center
 
 # Inheritance (cont.)
 
-<div class="grid grid-cols-2 gap-y-10 gap-x-2 mt-8">
 <div class='flex-row'>
 
 </div>
