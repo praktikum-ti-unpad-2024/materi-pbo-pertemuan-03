@@ -47,6 +47,9 @@ src: ./pages/06_Inheritance.md
 src: ./pages/07_Inheritance cont.md
 ---
 ---
+src: ./pages/07_Inheritance cont2.md
+---
+---
 src: ./pages/08_Inheritance cont2.md
 ---
 ---
