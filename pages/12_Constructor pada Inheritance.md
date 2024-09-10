@@ -8,7 +8,7 @@ layout: center
 <div class='flex-row'>
 <div class='text-base text-justify mt-4'>
 
-- Hanya member class _properties_ dan _methods_ yang diwariskan, **konstruktor tidak diwariskan**.
+- Hanya member class _properties_ dan _methods_ yang diwariskan, <span style="color: green; font-weight: bold;">konstruktor tidak diwariskan</span>.
 
 - Ketika object child dibuat (konstruktornya dieksekusi), maka konstruktor parent class dijalankan terlebih dahulu kemudian menyelesaikan konstruktor child.
 

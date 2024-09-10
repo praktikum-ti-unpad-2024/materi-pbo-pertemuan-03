@@ -20,13 +20,13 @@ classDiagram
 <div class='flex-row flex justify-center items-center'>
 <div class='text-base text-justify mt-4'>
 
-- Java hanya mengizinkan **single inheritance**, yakni _subclass_ hanya dapat memiliki **satu** _parent class_.
+- Java hanya mengizinkan <span style="color: green; font-weight: bold;">single inheritance</span>, yakni subclass hanya dapat memiliki satu parent class.
 
-- Satu _parent class_ dapat memiliki **banyak** _subclass_ yang disebut **hierarchical inheritance**.
+- Satu parent class dapat memiliki <span style="color: green; font-weight: bold;">banyak</span> subclass yang disebut <span style="color: green; font-weight: bold;">hierarchical inheritance</span>.
 
-- Satu _subclass_ dapat memiliki _subclass_ lagi, disebut **multilevel inheritance**.
+- Satu subclass dapat memiliki subclass lagi, disebut <span style="color: green; font-weight: bold;">multilevel inheritance</span>.
 
-- Java tidak mendukung multiple inheritance, yakni satu _subclass_ memiliki **lebih dari satu** _parent class_.
+- Java tidak mendukung <span style="color: green; font-weight: bold;">multiple inheritance</span>, yakni satu subclass memiliki <span style="color: green; font-weight: bold;">lebih dari satu</span> parent class.
 
 </div>
 </div>

@@ -3,7 +3,7 @@
 
 <br>
 
-**Inheritance/ Pewarisan** yakni membuat sebuah subclass dari class yang sudah ada. Hubungan ini disebut juga hubungan _spesialisasi_ dan berkebalikan dengan hubungan _generalisasi_.
+<span style="color: green; font-weight: bold;">Inheritance/ Pewarisan</span> yakni membuat sebuah subclass dari class yang sudah ada. Hubungan ini disebut juga hubungan _spesialisasi_ dan berkebalikan dengan hubungan _generalisasi_.
 
 <div class="flex justify-center">
 <div class='w-5/6'>

@@ -3,7 +3,7 @@
 
 <br>
 
-**Aggregation** merupakan hubungan antara class (entity) dengan dependency yang memiliki lifespan berbeda. Jika 1 class telah mati, tetapi dependency **tidak akan ikut mati**.
+<span style="color: green; font-weight: bold;">Aggregation</span> merupakan hubungan antara class (entity) dengan dependency yang memiliki lifespan berbeda. Jika 1 class telah mati, tetapi dependency **tidak akan ikut mati**.
 
 <div class="flex justify-center mt-16">
 <div class='w-4/5'>

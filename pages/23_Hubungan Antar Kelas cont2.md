@@ -3,7 +3,7 @@
 
 <br>
 
-**Composition** merupakan hubungan antara class (entity) dengan dependency yang memiliki lifespan sama. Jika 1 class telah mati, maka dependency pun **akan ikut mati**.
+<span style="color: green; font-weight: bold;">Composition</span> merupakan hubungan antara class (entity) dengan dependency yang memiliki lifespan sama. Jika 1 class telah mati, maka dependency pun **akan ikut mati**.
 
 <div class="flex justify-center mt-16">
 <div class='w-4/5'>

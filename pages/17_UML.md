@@ -13,7 +13,7 @@ UML mendefinisikan diagram-diagram sebagai berikut:
 <div>
 
 - use case diagram
-- **class diagram**
+- <span style="color: green; font-weight: bold;">class diagram</span>
 - statechart diagram
 - activity diagram
 
