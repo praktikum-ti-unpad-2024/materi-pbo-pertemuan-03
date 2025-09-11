@@ -19,4 +19,4 @@ Tools yang digunakan dibebaskan, jika kebingungan dapat menggunakan
 website [drawio.com](https://drawio.com) dengan output berupa file bernama `UML.png`
 
 NOTES : SETIAP PRAKTIKAN HARUS <span style="color: red; font-weight: bold;">BERBEDA TOPIK</span> (ex. Kendaraan, Furniture, dll.)
-<br>[Spreadsheets List Topik](https://docs.google.com/spreadsheets/d/1UO1BJlp-v8-E3XB3BHSwcHtQCjDKpmIkY9O2-8VCQNU/edit?usp=sharing)
+<br>[Spreadsheets List Topik](https://docs.google.com/spreadsheets/d/1LQzvKBmw7EVra_8uGWtVCIGdbb44HxCOvAGZLoF2V9k/edit?gid=0#gid=0)
