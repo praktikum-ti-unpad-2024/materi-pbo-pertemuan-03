@@ -8,7 +8,7 @@ info: |
   # Materi 3 - PBO
   Inheritance, Method Overriding, dan UML
 
-  > Asisten Praktikum Pemrograman Berbasis Objek 2022
+  > Asisten Praktikum Pemrograman Berbasis Objek 2023
   >
   > Teknik Informatika Universitas Padjadjaran
 
